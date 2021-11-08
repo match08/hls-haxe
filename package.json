@@ -1,0 +1,24 @@
+{
+  "name": "hls-haxe",
+  "version": "0.0.1",
+  "description": "Basic externs for hls.js javascript",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/match08/hls-haxe.git"
+  },
+  "keywords": [
+    "haxe",
+    "javascript",
+    "video",
+    "hls"
+  ],
+  "author": "Baiyun Yang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/match08/hls-haxe/issues"
+  },
+  "homepage": "https://github.com/match08/hls-haxe#readme"
+}

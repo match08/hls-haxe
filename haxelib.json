@@ -1,0 +1,11 @@
+{
+  "name": "hls-haxe",
+  "license": "MIT",
+  "classPath": "src",
+  "tags": ["hls.js","haxe", "extern"],
+  "description": "Extern files for hls.js",
+  "contributors": ["match08"],
+  "releasenote": "First release. Still alpha testing",
+  "version": "0.0.1",
+  "url": "https://github.com/match08/hls-haxe"
+}
