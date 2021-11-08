@@ -1,0 +1,2 @@
+-D hls
+--macro hls.Lib.build()
